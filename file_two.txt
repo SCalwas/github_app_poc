@@ -1,2 +1,0 @@
-I'm a brand new shiny file
-and I'm edited in the next commit

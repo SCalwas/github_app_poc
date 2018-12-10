@@ -1,3 +1,0 @@
-I'm file_eleven.txt in the root directory...
-
-Doctor Fill prescribes one tall, cold line of text.
